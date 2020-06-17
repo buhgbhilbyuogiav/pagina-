@@ -1,2 +1,2 @@
-# paguina-
+# pagina-
 mi blog 
